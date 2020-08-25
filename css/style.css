@@ -1209,6 +1209,7 @@ ul.bxslide {
 }
 /* 마지막 슬릭슬라이더 영역끝 */
 /* *********************************************************************** */
+#cont3,#cont4,#cont5{margin-bottom:100px}
 /* 투썸플레이스 썸네일 */
 .twosomeplace_picture img {
   float: right;
@@ -1223,12 +1224,7 @@ ul.bxslide {
 }
 /* 투썸플레이스 썸네일 끝 */
 /* 커피목업 */
-#cont3_5 {
-  margin-top: 35%;
-}
-#cont3_6 {
-  margin-top: 20%;
-}
+
 .zeropercent img {
   width: 100%;
 }
