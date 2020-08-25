@@ -129,10 +129,9 @@ section::after {
   color: #ffffff;
 }
 #content .inner {
-  max-width: 500px;
-  position: absolute;
+  /*position: absolute;
   top: 135%;
-  left: 25%;
+  left: 25%;*/
 }
 #content .inner img {
   width: 100%;
