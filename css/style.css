@@ -203,9 +203,7 @@ section::after {
 .social {
   position: absolute;
   top: 20px;
-  right: -5px;
-  width: 9%;
-  height: 40px;
+  right: 0;
   z-index: 999999;
 }
 .sns {
