@@ -849,8 +849,8 @@ ul.bxslider {
   margin-top: 8%;
 }
 .bxslide > div > img {
-  width: 30%;
-  margin-left: 52%;
+  width: calc(93% - 110px);
+  margin-left: calc(110px + 7%);
 } /*수정*/
 
 /** VARIABLES
