@@ -1197,11 +1197,8 @@ ul.bxslide {
 }
 .inline {
   text-align: center;
-  width: 500px;
-  height: 500px;
   position: relative;
-  top: 300px;
-  left: 0;
+  
 }
 .box_a {
   float: left;
