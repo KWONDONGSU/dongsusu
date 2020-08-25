@@ -1026,7 +1026,7 @@ ul.bxslide {
   height: 60px;
   margin-left: 79%;
   position: absolute;
-  top: calc(50% - 400px);
+  top: 100px;
   text-indent: -999999px;
   opacity: 60%;
 }
