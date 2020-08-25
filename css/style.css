@@ -591,6 +591,7 @@ a:focus {
 }
 /* *********************************************************************** */
 /* 첫번쨰 bx슬라이더 영역 */
+#cont1{margin-bottom:100px}
 #content {
   width: 100%;
   margin: 0 auto;
@@ -845,7 +846,7 @@ ul.bxslider {
 #conten {
   width: 100%;
   margin: 0 auto;
-  margin-top: 8%;
+  margin-bottom: 100px;
 }
 .bxslide > div > img {
   width: calc(93% - 110px);
